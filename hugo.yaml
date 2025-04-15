@@ -1,0 +1,246 @@
+baseURL: "https://rifkyfuady.github.io/"
+title: Rifky Fuady
+theme: PaperMod
+defaultContentLanguage: id
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+# menu:
+#   main:
+#     - identifier: portfolio
+#       name: Portofolio
+#       url: /portofolio
+#       weight: 10
+#     - identifier: posts
+#       name: Posts
+#       url: /posts/
+#       weight: 20
+#     - identifier: tags
+#       name: Tags
+#       url: /tags/
+#       weight: 30
+#     - identifier: privacy
+#       name: Privacy Policy
+#       url: /privacy-policy
+#       weight: 40
+languages:
+  id:
+    languageName: ":indonesia:"
+    weight: 1
+    menu:
+      main:
+        - name: Portofolio
+          url: portfolio
+          weight: 5
+        - name: Artikel
+          url: posts
+          weight: 10
+        - name: Tagar
+          url: tags
+          weight: 10
+        - name: Cari
+          url: search
+          weight: 15
+        - name: Kebijakan Privasi
+          url: kebijakan-privasi
+    params:
+      languageAltTitle: "Indonesia"
+      description: "Rifky Fuady Programmer Full Stack Web Developer Mobile Developer Flutter Developer"
+      homeInfoParams:
+        Title: "Hai \U0001F44B"
+        Content: Selamat Datang di blog saya
+      profileMode:
+        enabled: true # needs to be explicitly set
+        title: Rifky Fuady
+        subtitle: "Good programmer with great habits"
+        imageUrl: "/img/profil-300.jpg"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my profile
+        buttons:
+          - name: Portofolio
+            url: portfolio
+          - name: Artikel
+            url: posts
+
+  en:
+    languageName: ":gb:"
+    weight: 2
+    title: RifkyFuady
+    menu:
+      main:
+        - name: Portfolio
+          url: portfolio
+          weight: 5
+        - name: Search
+          url: search
+          weight: 10
+        - name: Privacy Policy
+          url: privacy-policy
+    params:
+      languageAltTitle: "English"
+      description: "Rifky Fuady Programmer Full Stack Web Developer Mobile Developer Flutter Developer"
+      homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
+      profileMode:
+        enabled: true # needs to be explicitly set
+        title: Rifky Fuady
+        subtitle: "Good programmer with great habits"
+        imageUrl: "/img/profil-300.jpg"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my profile
+        buttons:
+          - name: Portfolio
+            url: portfolio
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  disqus:
+    shortname: rifkyfu32-github-io
+  userway:
+    account: XAfzRB9irr
+  title: RifkyFuady
+  description: "Rifky Fuady Programmer Full Stack Web Developer Mobile Developer Flutter Developer"
+  keywords: [Blog, Portfolio, Programmer, Nemuide]
+  author: Rifky Fuady
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  displayFullLangName: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  hideCredits: true
+  ShareButtons: ["linkedin", "twitter", "facebook", "whatsapp", "telegram"]
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+
+  label:
+    text: "Home"
+    emoji: ":house:"
+    # icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  # profileMode:
+  #   enabled: true # needs to be explicitly set
+  #   title: Rifky Fuady
+  #   subtitle: "Good programmer with great habits"
+  #   imageUrl: "/img/profil-300.jpg"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my profile
+  #   buttons:
+  #     - name: Portofolio
+  #       url: portfolio
+  #     - name: Arsip
+  #       url: posts
+
+  # home-info mode
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to my blog
+
+  socialIcons:
+    - name: email
+      url: "mailto:mi.rifky.fuady@gmail.com"
+    - name: github
+      url: "https://github.com/rifkyfu32"
+    - name: cv
+      url: "https://www.dicoding.com/users/57163"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/rifky-fuady"
+    - name: x
+      url: "https://twitter.com/bumnmuda"
+    - name: instagram
+      url: "https://www.instagram.com/fuadyrifky"
+    - name: facebook
+      url: "https://facebook.com/rifky2.fuady"
+
+  analytics:
+    #UA-145189876-1
+    google:
+      SiteVerificationTag: "A3bnoBvVWUhLgpEuuZPXcNk4ydzULsPXnikJ2IHB1Gk"
+    # bing:
+    #   SiteVerificationTag: "XYZabc"
+    # yandex:
+    #   SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+# markup:
+#   highlight:
+#     noClasses: false
+#     # anchorLineNos: true
+#     # codeFences: true
+#     # guessSyntax: true
+#     # lineNos: true
+#     # style: monokai
+
+services:
+  disqus:
+    shortname: rifkyfu32-github-io
