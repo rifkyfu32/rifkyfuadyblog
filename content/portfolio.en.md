@@ -17,11 +17,11 @@ This page contains projects that I have worked on and am currently working on. S
 - URL: [Google Play](https://play.google.com/store/apps/details?id=id.co.damri.presensi) [Apps Store](https://apps.apple.com/us/app/mydamri/id6443479164)
 - Status: <span class="badge badge-success">Go Live</span>
 
-![Tampilan aplikasi mobile MyDAMRI Android](/img/porto/mydamri.png)
+![Tampilan aplikasi mobile MyDAMRI Android](/img/porto/mydamri.webp)
 
 A mobile portal application specifically for employees of Perum DAMRI. It features location-based attendance, employee task list submissions, leave/sick/holiday applications, important company events, internal company news, and integration with e-office & e-meeting applications. Available on Android and iOS platforms.
 
-![Tampilan aplikasi mobile MyDAMRI IOS](/img/porto/mydamriios.png)
+![Tampilan aplikasi mobile MyDAMRI IOS](/img/porto/mydamriios.webp)
 
 Built using the Flutter mobile framework, with data sourced from Perum DAMRI's Web Service API.
 
@@ -30,11 +30,11 @@ Built using the Flutter mobile framework, with data sourced from Perum DAMRI's W
 - URL: [Google Play](https://play.google.com/store/apps/details?id=id.co.damri.ppid) [Apps Store](https://apps.apple.com/id/app/ppid-damri/id1660004558)
 - Status: <span class="badge badge-success">Go Live</span>
 
-![Tampilan aplikasi mobile PPID DAMRI Android](/img/porto/ppiddamri.png)
+![Tampilan aplikasi mobile PPID DAMRI Android](/img/porto/ppiddamri.webp)
 
 PPID DAMRI is an information system aimed at planning, organizing, and implementing information management and services towards fast, easy, and reasonable information services within Perum DAMRI. Available on Android and iOS platforms.
 
-![Tampilan aplikasi mobile PPID DAMRI IOS](/img/porto/ppiddamriios.png)
+![Tampilan aplikasi mobile PPID DAMRI IOS](/img/porto/ppiddamriios.webp)
 
 Built using the Flutter mobile framework, with data sourced from Perum DAMRI's Web Service API.
 
@@ -45,13 +45,13 @@ Built using the Flutter mobile framework, with data sourced from Perum DAMRI's W
 
 The official mobile portal application of the Batang District Health Office, providing information to the public seeking news, activities, or articles within the Batang District Health Office.
 
-![Tampilan aplikasi mobile dinkes batang pertama](/img/porto/dinkes-apk-1.png)
+![Tampilan aplikasi mobile dinkes batang pertama](/img/porto/dinkes-apk-1.webp)
 
 Built using the Flutter mobile framework, with data sourced from the Batang District Health Office's Web Service API.
 
 As of March 24, 2019, it has been featured in the [Flutter Showcase](https://itsallwidgets.com/flutter-app/dinkes-batang)
 
-![Tampilan aplikasi mobile dinkes batang kedua](/img/porto/dinkes-apk-2.png)
+![Tampilan aplikasi mobile dinkes batang kedua](/img/porto/dinkes-apk-2.webp)
 
 ## Batang Health Department Website
 
@@ -60,7 +60,7 @@ As of March 24, 2019, it has been featured in the [Flutter Showcase](https://its
 
 The official website of the Batang District Health Office, providing information to the public about news and information within the Batang District Health Office.
 
-![Tampilan situs resmi Dinkes Batang](/img/porto/dinkes.png)
+![Tampilan situs resmi Dinkes Batang](/img/porto/dinkes.webp)
 
 Built using the WordPress CMS with the Divi theme and visual page builder.
 
@@ -71,11 +71,11 @@ Built using the WordPress CMS with the Divi theme and visual page builder.
 
 PPID Batang Health Department is an information system aimed at planning, organizing, and implementing information management and services towards fast, easy, and reasonable information services within the Batang District Health Office.
 
-![Tampilan situs resmi PPID Dinkes Batang](/img/porto/ppid-web.png)
+![Tampilan situs resmi PPID Dinkes Batang](/img/porto/ppid-web.webp)
 
 On the front page of the PPID Health Office, applicants (the public) can register before submitting a request for the desired information.
 
-![Tampilan situs resmi PPID Dinkes Batang Backoffice](/img/porto/ppid-backend.png)
+![Tampilan situs resmi PPID Dinkes Batang Backoffice](/img/porto/ppid-backend.webp)
 
 PPID Dinkes administrator page, for information and documentation management officers of the Batang Health Service who provide information data.
 
@@ -88,19 +88,19 @@ Built using the CodeIgniter PHP framework. UI Styled with the popular CSS framew
 
 The Online Outpatient Registration System or SI-Pentol is an online registration application via SMS gateway, Android, and Website, presented by RSUD Batang to facilitate services for the public in registering for outpatient clinics.
 
-![Tampilan backoffice situs SI-Pentol](/img/porto/sipentol-backend.png)
+![Tampilan backoffice situs SI-Pentol](/img/porto/sipentol-backend.webp)
 
 - The backend page display of SI-Pentol used by Batang Regional Hospital employees according to their positions is built using the PHP Laravel framework, while to beautify the appearance, a very mainstream CSS framework is used, namely Bootstrap.
 
-![Tampilan situs SI-Pentol](/img/porto/sipentol-web.png)
+![Tampilan situs SI-Pentol](/img/porto/sipentol-web.webp)
 
 - The appearance of the online registration page that can be used by the public who use Batang Regional Hospital services to register for outpatient clinics, is built using native PHP, while to beautify the appearance using the MUI CSS framework.
 
-![Tampilan aplikasi SI-Pentol Android](/img/porto/sipentol-android.png)
+![Tampilan aplikasi SI-Pentol Android](/img/porto/sipentol-android.webp)
 
 - The SI-Pentol Android platform application can be downloaded from the Google Play Store at the following link: [SI-Pentol Android](https://play.google.com/store/apps/details?id=com.rifky.fuady.pendaftaranrawatjalan), built using native Java Android with Android Studio build tools, while to build the REST API using the PHP Lumen micro framework.
 
-![Tampilan smsgateway SI-Pentol](/img/porto/sms.png)
+![Tampilan smsgateway SI-Pentol](/img/porto/sms.webp)
 
 - SMS Gateway SI-Pentol by typing SMS with the format :
 
@@ -117,7 +117,7 @@ To build an SMS auto reply bot using native PHP, while to connect the modem devi
 
 BitAlley is a platform for peer to peer transactions in creating a cryptocurrency market that makes it easy for users to buy and sell assets and services using cryptocurrency.
 
-![Tampilan Fintech BitAlley](/img/porto/bitalley.png)
+![Tampilan Fintech BitAlley](/img/porto/bitalley.webp)
 
 Built using Wordpress CMS and using the open source HTML5 Blank theme boilerplate.
 
@@ -132,6 +132,6 @@ This application has won the Challenge with the theme Helping Mothers with Techn
 
 The announcement of the challenge winners was published on the [Dicoding Blog](https://blog.dicoding.com/5-aplikasi-memenangkan-challenge-bantu-ibu-dengan-teknologi/) and [Codepolitan Blog](https://www.codepolitan.com/5-aplikasi-memenangkan-challenge-bantu-ibu-dengan-teknologi).
 
-![Tampilan aplikasi Bunda Berencana](/img/porto/bunda-berencana.png)
+![Tampilan aplikasi Bunda Berencana](/img/porto/bunda-berencana.webp)
 
 Built using native Java Android with Android Studio.

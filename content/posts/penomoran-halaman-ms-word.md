@@ -60,7 +60,7 @@ Setelah kita pilih Page Number, nomor halaman akan muncul di bagian bawah-tengah
 
 Nah ini dimulai dari angka dua karena Cover kehitung. Untuk membuat cover tak terhitung, pergi ke halaman cover lalu centang Different First Page. Nomor di bawah halaman akan hilang.
 ![Tampilan Penomoran Halaman Microsoft Word kesembilan](/img/penomoran-halaman-ms-word/9.png)
-![Tampilan Penomoran Halaman Microsoft Word kesepuluh](/img/penomoran-halaman-ms-word/10.png)
+![Tampilan Penomoran Halaman Microsoft Word kesepuluh](/img/penomoran-halaman-ms-word/10.jpeg)
 
 Lihat di halaman selanjutnya. Ternyata nomor masih dimulai dari angka 2.
 

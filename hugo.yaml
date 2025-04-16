@@ -56,8 +56,8 @@ languages:
       profileMode:
         enabled: true # needs to be explicitly set
         title: Rifky Fuady
-        subtitle: "Good programmer with great habits"
-        imageUrl: "/img/profil-300.jpg"
+        subtitle: "Building Scalable Systems, Front to Back."
+        imageUrl: "/img/profil-300.webp"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my profile
@@ -90,8 +90,8 @@ languages:
       profileMode:
         enabled: true # needs to be explicitly set
         title: Rifky Fuady
-        subtitle: "Good programmer with great habits"
-        imageUrl: "/img/profil-300.jpg"
+        subtitle: "Building Scalable Systems, Front to Back."
+        imageUrl: "/img/profil-300.webp"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my profile
@@ -112,7 +112,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   disqus:
-    shortname: rifkyfu32-github-io
+    shortname: rifkyfuady-github-io
   userway:
     account: XAfzRB9irr
   title: RifkyFuady
@@ -162,7 +162,7 @@ params:
   #   enabled: true # needs to be explicitly set
   #   title: Rifky Fuady
   #   subtitle: "Good programmer with great habits"
-  #   imageUrl: "/img/profil-300.jpg"
+  #   imageUrl: "/img/profil-300.webp"
   #   imageWidth: 120
   #   imageHeight: 120
   #   imageTitle: my profile
